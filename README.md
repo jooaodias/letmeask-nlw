@@ -19,8 +19,8 @@ $ cd letmeask-nlw.
 # Instale as dependências
 $ yarn install
 
-# Execute o script "dev"
-$ yarn run dev
+# Execute o script 
+$ yarn start
 
 # O projeto inciará na porta: 3000 - acesse http://localhost:3000
 
